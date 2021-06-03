@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of our martyres remembred, concerning the Supper of the Lord: as it hath been partly published, in the opening and application of Luk. 22.19,20. Most humbly presented to the serious and seasonable considerations of the most orthodox and sincere Christians that mourn for, or that are stirred up, or called to be repairers of the breaches. In which, 1. A just, plain, and free way to the Lord's table, is so discovered, that all saints with the weakest of believers; notwithstanding any pretended distinguishing opinion, ought unitedly to communicate: proved by several reasons. 2. The profession in which all that communicate ought to acknowledge and therein to be united. 3. The greatness of the duty, and goodness of God, in ordaining and commanding of it. And how all Christian magistrates, ministers, and people, have zealously promoted the same, with some particular hymnes sung by Christians after they received. 4. A declaration, setting forth the evils, and judgements of God, in the undue observation, causeless separation and contempt thereof, and of the necessity of church-government, as a blessed means to remedy, &amp;c. is also added for further information. / By VV. Kaye Minister of the G. at S. ...</title>
+            <author>Kaye, William.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87694</idno><idno type="EEBO-CITATION">99866758_168046</idno>
+  <idno type="VID">168046</idno>
+  <idno type="EEBO-PROQUEST">2264219716</idno>
+  
+            <idno type="STC">Wing K33</idno>
+            <idno type="STC">Thomason E826_12</idno>
+            <idno type="STC">Thomason E826_13</idno>
+            <idno type="STC">ESTC R207721</idno>
+            <idno type="PROQUEST">99866758</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866758e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168046)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E826[12] or 125:E826[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of our martyres remembred, concerning the Supper of the Lord: as it hath been partly published, in the opening and application of Luk. 22.19,20. Most humbly presented to the serious and seasonable considerations of the most orthodox and sincere Christians that mourn for, or that are stirred up, or called to be repairers of the breaches. In which, 1. A just, plain, and free way to the Lord's table, is so discovered, that all saints with the weakest of believers; notwithstanding any pretended distinguishing opinion, ought unitedly to communicate: proved by several reasons. 2. The profession in which all that communicate ought to acknowledge and therein to be united. 3. The greatness of the duty, and goodness of God, in ordaining and commanding of it. And how all Christian magistrates, ministers, and people, have zealously promoted the same, with some particular hymnes sung by Christians after they received. 4. A declaration, setting forth the evils, and judgements of God, in the undue observation, causeless separation and contempt thereof, and of the necessity of church-government, as a blessed means to remedy, &amp;c. is also added for further information. / By VV. Kaye Minister of the G. at S. ...</title>
+                  <author>Kaye, William.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Martha Harrison, at the Lambe in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two parts, with "A declaration, setting forth the evils ..." having its own title page (sig. [D1]), reading: "A declaration concerning the great and growing evils, which from the undue admission, contempt of, with the total neglect, and causless separation from the Lord's table. Also, the divine right of the supream magistrate".</note>
+                  <note>Annotation on Thomason copy: "Jan. 30. 1654"; the second 5 in the imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Lord's Supper --  Early works to 1800.</term>
+               <term type="topical_term">Hymns, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168046:1"/>
+            <p>A DECLARATION Concerning the great and growing evils, which from the undue admission, contempt of, with the total neglect, and causless separation from the LORD's TABLE.</p>
+            <p>ALSO, The Divine Right OF The Supream Magistrate Is vindicated, &amp; that all private Oversights or parti<g ref="char:EOLhyphen"/>cular Churches, are to be judged by the general over<g ref="char:EOLhyphen"/>sight or Church-Government; and that the Magistrate may make Ordinances to command all to yeild them creature-like obedience in hearing, and as new creatures to sub<g ref="char:EOLhyphen"/>mit as they are called to the said Ordinance.</p>
+            <p>Written by <hi>William Kaye</hi> Minister of the Gospel at <hi>S.</hi> with Christians ap<g ref="char:EOLhyphen"/>probation upon desire to satisfie such as deny to communicate with their Brethren in respect of circumstantial differences concerning Baptism.</p>
+            <q>
+               <p>But let a man examine himself, and so let him eae of that bread and drink of that cup,</p>
+               <bibl>
+                  <hi>1 Cor. 11.28.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>So they established a decree, that they should come to keep the Passeover of the Lord.—Also in Judah the hand of God was to give them one heart to do the command of the King and of the Princes by the word of the Lord,</p>
+               <bibl>
+                  <hi>2 Chron. 30.5, 12.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Put them in minde to be subject to Principalities, to obey Magistrates,</p>
+               <bibl>
+                  <hi>Tit. 3.1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Thou leadest thy people like a flock by the hand of Moses and Aaron,</p>
+               <bibl>
+                  <hi>Ps. 77.26.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Christ yesterday, to day, and the same for ever,</p>
+               <bibl>
+                  <hi>Heb. 13.8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Martha Harrison,</hi> at the Lambe in Pauls Church yard, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:168046:2"/>
+            <pb n="25" facs="tcp:168046:2"/>
+            <head>The DECLARATION Concerning the Supper of the Lord.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is none to be found such a stranger in <hi>Israel</hi> to what Opinion soever he pretendeth, which did never cast his eye, nor doth not contend for admission to the said Ordinance; in which way, as we shall be found faithful, or disobedient, the blessing, or judg<g ref="char:EOLhyphen"/>ment of God is to be expected or feared.</p>
+            <p>Therefore seeing we desire as much to be taught, as we are in no measure constrained to declare; some pretending Christ, being unsatis<g ref="char:EOLhyphen"/>fied how far the Lord after so long time of our carriage of the cross, hath in some small measure taught us by his spirit to be wise to ex<g ref="char:EOLhyphen"/>perience</p>
+            <div n="1" type="part">
+               <head>1. The evil which by the undue and negligent receiving of the Lords Supper, is, and hath been occasioned.</head>
+               <p>Though from these two roots of iniquitie (undue and negligent receiving) almost in all places inseparable, all the fruit of disobedience springeth: yet that they may be distinctly discovered, not to speak of the undue administration, which in the ceremonies may in the ex<g ref="char:EOLhyphen"/>ample
+<pb n="26" facs="tcp:168046:3"/>of Christ speaking once for all, <hi>Take ye,</hi> &amp;c. may easily be reformed: there is nothing we conceive can make the Lords Supper now unduely administred, then that the zealous and faithful profes<g ref="char:EOLhyphen"/>sion (in which all should unite) hereafter partly mentioned, is not so preached, or declared and acknowledged, that thereby Jesus Christ might be so evidently set sorth crucified amongst them, that the Com<g ref="char:EOLhyphen"/>municants might be moved or made sensible of their intended duty, so that they might not take their own terms without preparation or profession, which all for the most part use to do; so that all that they use to say, is, <hi>That this day I am Gods servant,</hi> which for all that, is so little remembred, that meeting with their old acquain<g ref="char:EOLhyphen"/>tance, through drinking, swearing, and prophanations of the Lord, they do so far betray their profession, that some Christians are so far offended, as the wickedness of <hi>Elyes</hi> sons made some <hi>Israelites</hi> to loath the sacrifice.</p>
+               <p>And yet if the Lords Supper should be duely administred, yet if notwithstanding, as in the wisdom of Christ, the same in the often receiving thereof should not be remembred, what is this but to live above food and rayment? Is not the neglect thereof a sin? and doth not sin unrepented of, harden? Certainly though there is no absolute rule for breaking of bread, every Lords day, (though their Christian Liberty to observe it, is not be judged) yet questionless, so to neglect it as not to receive it, but once or twice in a year, makes it rather an accustomary homage which Tenants perform to their Landlords, then that it should be received for the strengthening of our faith, and re<g ref="char:EOLhyphen"/>nueing of our repentance.</p>
+               <p>Betwixt therefore unduely and negligent receiving, how far the face of Christian Religion is obscured and countenanced, we need not to mention.</p>
+               <p>And therefore if such Ministers do take notice, that pretend to baptize children in approbation of the faith of their fathers, and yet deny their fathers to communicate, as hereby to see their contradicti<g ref="char:EOLhyphen"/>on, it shall be their mercy, as it shall rejoyce us, that the Ordinance be<g ref="char:EOLhyphen"/>ing duely and often administred, there might be no cause of com<g ref="char:EOLhyphen"/>plaint of</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="27" facs="tcp:168046:3"/>
+               <head>2. <hi>The evils which in causless separation of believers: children of our fathers in the Lords Table is occasioned.</hi>
+               </head>
+               <p>WHich is such a woeful mystery of the Master-piece of Satans wiles, that there is no evil in openning the door too wide in ad<g ref="char:EOLhyphen"/>mission without distinction, then it is in so shutting up the door at will and pleasure, as to make such distinctions; I am for <hi>Paul,</hi> I am for <hi>Apollo,</hi> I am for <hi>Cephas,</hi> whereby Christ is divided. Better it had been that some through blinde charity had been feasted, then through self-interest, so to deny Saints their food whereby they are famished; for though in admission of all, there is too much daubing with untempered morter; yet to deny Communion with Saints, is to break down the wall it self, to the ruine of the whole building; so then, while they pretend to separate the precious from the vile, and to observe order, the judging of the Saints in the order of baptism, so as to refuse thereupon, to give each other the right hand of fellowship, as weak or strong brethren, all is hereby so disordered, and the preci<g ref="char:EOLhyphen"/>ous is made so vile, that in denying thus to communicate, what doth one Saint (pretend what smooth Language so ever they please) but in effect so judge anothers consciences, as to say, Thou art an art an unbeliever, thou art an ignorant person, thou art an Heretick, or impenitent, with whom I ought not to communicate; so that not onely a great mystery, but such a Mass of iniquity is to be found, in causless separation, as that nothing of the image of Christ, charity, moderation or self-denial in sitting with <hi>Judas,</hi> and eating with Pub<g ref="char:EOLhyphen"/>licans and sinners is appearing; but on the contrary, such rash and presmptuous judging of Saints lights and consciences, and such mea<g ref="char:EOLunhyphen"/>suring themselves by themselves, and comparing themselves by them<g ref="char:EOLhyphen"/>selves, is so inequal, that as though the Lord were the God of the A, but not of the J, or were the Lord of the P, and not of the A or J; so that upon a free and faithful profession, admissi<g ref="char:EOLhyphen"/>being denied, not onely the little ones in Christ, but the strongest of on professors complaineth of injustice, that the kingdom of heaven is shut against men. And thus Christ is separated from his believing members, whereby the breaking of bread is the breaking of Churches, or by some is so mis-applied through causless separation, as that some may their fear factious uniting; so that the Bishops rails did not so keep men from the Table, as the separating rails of divisions do hinder even the Churches of Christ from communicating.</p>
+               <pb n="28" facs="tcp:168046:4"/>
+               <p> The evills therefore and judgment of God threatned for this un<g ref="char:EOLhyphen"/>charitableness, is so superlative, that nothing we know, but the para<g ref="char:EOLhyphen"/>ble of the great King that forgave his unjust steward that ought him ten thousand Talents, because he desired him, who notwithstanding, as void of all charitie, would not forgive his brother one penny of his debt, though he fell down before him, and begged his forbearance, for which cause the unjust steward was eternally punished, can but demonstrate the unjust and uncharitable proccedings of causless se<g ref="char:EOLhyphen"/>paration of the Saints of all Churches; and yet we may fear, that these evils to some are so little discovered, that it were a mercy if we shall not be judged as accusers of our brethren; yet the Lord knows our hearts, and upon what account we are offended, not as that we make divisions, but it is our grief to see such a course taken a<g ref="char:EOLhyphen"/>mongst Christian brethren, as is a breach of charity, and cause of separation in the preservation of the one, as to prevent the other, we shall be known to be his Disciples, but that we have, or can (being intrusted with so small a Talent) discover the evil complained of, which we leave to other Saints to be more fully manifested.</p>
+               <p>We humbly conceive, that if we had the tongue of men and An<g ref="char:EOLhyphen"/>gels, we could not too sharply rebuke the spirit of <hi>Diotrophes,</hi> and of the Pharisees, in that as the one debars Saints from coming into the Church, so the other rebuke the Churches for sitting Christ-like wich Publicans and sinners. Therefore not further mentioning the selfish pride and hardness of heart, <hi>&amp;c.</hi> as by the fruits are appear<g ref="char:EOLhyphen"/>ing as hid in the causless bowels of separation;</p>
+               <p>We do own it to be our duty to stand in the gap, till the Lord in repairing thereof, in healing our backsliding and divisions, shall turn our mourning into rejoycing; for the more we are humbled to lay this sin to heart, the Lord doth more and more and more in mercy discover it unto us, that it is the step that leadeth to,</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>The evils which through the contempt of the Lords Supper is occasioned.</hi>
+               </head>
+               <p>THe contempt of the Ordinance (seeing the undue receiving there<g ref="char:EOLhyphen"/>of brought a judgment) is such a transcendent iniquity and spi<g ref="char:EOLhyphen"/>ritual wickedness, that it is observable how the righteous Judge of all men hath so punished this presuptious sin, as that the Lord gave <hi>Corah, Dathan,</hi> and <hi>Abiram, Nadab</hi> and <hi>Abihu,</hi> with other Is<g ref="char:EOLhyphen"/>raelites
+<pb n="29" facs="tcp:168046:4"/>and Gentiles, that according to the light that is in them, they not worshipping God, they ranne into the snares to contemn the Ordinances, and afterwards to deny Magistrates, Ministers, prayer and repentance, whereby the hand of God in their tem<g ref="char:EOLhyphen"/>poral judgement was manifested amongst them; which seeing all is written for our learning, therefore we hope it shall be a mercy if our old acquaintance with whom we have walkt in the house of God as friends, shall not like those in the time of the Prophet <hi>Malachy,</hi> be so stout-hearted to justifie themselves, though they contemned Prayer and the Ordinances; Opinions destructive to the glory of God, the light that is within us, with the peace and welfare of the Church and Nation.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4. <hi>Of the evils which through the neglect of communicating at the Lords Table is also occasioned.</hi>
+               </head>
+               <p>ANd though we cannot but confess, That some honoured Saints have forborn to communicate, not from contempt, but as ex<g ref="char:EOLhyphen"/>pecting a settlement in Church-reformation; yet that there is evil in the total forbearing, some can experience, that heavenly minded<g ref="char:EOLhyphen"/>ness is less esteemed, zeal more cold, religious duties more formal, and the thirsting of their soul is almost in so small a measure ope<g ref="char:EOLhyphen"/>rating, that they can finde their inclinations to be indifferent, so that they have left that holy violence, by which the kingdom of heaven is obtained, whereby as the wives of <hi>Solomon</hi> drew away his heart, so by total sorbearing we are tempted, to backslide from the power of godliness; for it is a temptation indeed, not to serve God before we have attained to the height of perfection, seeing we cannot eat drink, pray, or work in, or follow our vocations, but we sin, but as we apply the righteousness of our Mediator, whereby we may go un<g ref="char:EOLhyphen"/>to God our Father by faith in his sacrifice. Let us therefore, though never so weak, offer up our obedience, contenting our selves with the height of that discovery of truth as God hath revealed.</p>
+               <p>To cast then our eye with general Observations, upon all the evils above mentioned; may not every one that loves poor <hi>England,</hi> or that which is more to be preferred, the glory of God in the pro<g ref="char:EOLhyphen"/>pagating of the Gospel: that is not a common Atheist, but may see the Commonwealth so endangered, the Church divided, and the very face of Christianity, like the ship in which Christ slept, so co<g ref="char:EOLhyphen"/>vered
+<pb n="30" facs="tcp:168046:5"/>over with the billows of confusion, as ready to sink or to split upon the rock of causless separations; so that it is high time, these evils or maladies considered, to think in the next place of</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. <hi>Remedy against the evils complained of.</hi>
+               </head>
+               <p>THough its without dispute, that the Lord our God is our Physiti<g ref="char:EOLhyphen"/>an, who hath the balm of <hi>Gilead</hi> to heal our sicknesses; yet it is as true, that he will not ordinarily (having decreed that man shall live by bread) finde any other way then appointed to relieve him Therefore in looking upon the first, we must not overlook the secun<g ref="char:EOLhyphen"/>dary causes, which is the Physick to be administred by the hand and oversight of the Magistrate and Ministers ordained</p>
+            </div>
+            <div type="part">
+               <head>One minde, or a Christian profession, in which all should unite, or thereby approve of one another as to be communicated with at the Lords Table.</head>
+               <p>THat this is the best approved of Physick, which with Gods bles<g ref="char:EOLhyphen"/>sing may cure the malady, (remisness or too much strictness in admission, being the greatest evil) Therefore in that one minde can<g ref="char:EOLhyphen"/>not possibly be otherwise expected, but that profession which all in bap<g ref="char:EOLhyphen"/>tism have before submitted unto, namely, to believe in Father, Son and holy Ghost, and to submit unto praying, reading, with hearing the word preached, singing, fasting, Lords-day worship, Church-Government, and all other the steps of Christs observations, profes<g ref="char:EOLhyphen"/>sing also repentance from keeping of holy dayes, and all other the traditions of Antichrist and dead works of prophaness, whereupon we are exhorted to repentance, and to examine themselves how far they have walked contrary, and to look up to feast their souls, how renewed faithful appreheasion of the Commemoration of the Body of Christ, the sacrifice for their sins, and to be assured of his second coming again to their eternal glorification, that in the serious, faith<g ref="char:EOLhyphen"/>ful and powerful discovery thereof, Jesus Christ may be so evidently held forth crucified amongst them, that the Lords Table may be as much a judgement-seat to the presumptuous, as a Mercy-seat to the professed penitent; by which in charity, all thus, or to this effect u<g ref="char:EOLhyphen"/>nitedly professing, they do put on a wedding-garment; and until
+<pb n="31" facs="tcp:168046:5"/>they shall refuse to hearken, to the Church in private, and renew the same in publick, as they upon this account Communicate, they ought not to be Excommunicated: for as upon <hi>Peters</hi> profession the Church, so any Church member is to be approved of.</p>
+            </div>
+            <div type="part">
+               <head>How far the Magistrates may remedy the evils complained of.</head>
+               <p>Though divers of our Brethern on a sudden (as if they had been bewitched) as forgetting that to deny Magistrates to beare rule in the Church, is so much the onely Doctrine of Popery, so that the Pope himself in exalting himself above all that is called God, or worshipped (which is the Magistrate) is therefore called Anti<g ref="char:EOLhyphen"/>christ, against which, our martyrs shed their blood, in confuting of which the worthy Labours of the Apologie of the Church of <hi>England</hi> is never to be forgotten; that this truth so much trampled upon, may be defended as formerly by all Christians, we in a most Peaceable and cleare conscience do declare, That though the Magistrates were not friends to the Church in the time of the Apostles, yet the Apostles were such friends to them as believing what the Prophets foretold of their restauration, to take away the Dross and tynne, as to declare the Magistrates to be Judges of unsound Doctrine, to war against An<g ref="char:EOLhyphen"/>tichrist, and so to defend and over-see the flock of Christ, as that in their Government, a Godly and Peaceable life is to be prayed for, and expected; so that it is the Magistrates Divine right, as God hath Ordained, to make Laws, as good King <hi>Hezekiah</hi> did, &amp; to com<g ref="char:EOLhyphen"/>mand that the Law of Christ be obeyed, having power to Place and displace such as disobey him, in which the life of Magistrates consist<g ref="char:EOLhyphen"/>eth, of which most Glorious &amp; necessary proceeding, that the Lord in his infinite mercy, may move the Magistrates to exercise the power, that God hath given them; so to promote the cause of God, unto which they are called, to see that in the generall oversight, or Church-Government, all private over-sight or Churches being subject, they thereby may command all men to yeild their creature-like obedience to hear the word preached, and as graciously called to receive the ordinances: the most pertinent example of heavenly King <hi>Hezekiah,</hi> 2. <hi>Chron.</hi> 30. is worthy to be written in letters of Gold, in that (as conscious of his duty) he made a Decree with his Princes, that all should come to the Passeover; which that from thence we may be a<g ref="char:EOLhyphen"/>forded with a word of seasonable application, these &amp; those times truly compared, let us consider,</p>
+               <p n="1">
+                  <pb n="32" facs="tcp:168046:6"/> 1. Because, Now as the Ordinances being generally neglected, I<g ref="char:EOLhyphen"/>dolatry (as now, or no worship at all) did creep into the Nation.</p>
+               <p n="2">2. Because God brought a judgement upon the people, when they forsook the Ordinances, as for the undue receiving of the Lords Sup<g ref="char:EOLhyphen"/>per the <hi>Corinthians</hi> were punished.</p>
+               <p n="3">3. That until the Magistrates made an Ordinance to require that Gods Ordinance should be observed; the people were never before that time reformed; and though some of them laughed and scorned at the Magistrates Ordinance; yet notwithstanding, others of the e<g ref="char:EOLhyphen"/>lect people of God, were thereupon so humbled, and truely gave (as though no greater soul-saving Doctrine could be preached) more then the Magistrates commanding the people to observe Gods Com<g ref="char:EOLhyphen"/>mands. It's expresly said, That in <hi>Judah</hi> the hand of God was to give them one heart (though not reformed in circumstantials) to do the command of the King and the Princes, which was to keep the Passeover; so that we may cleerly see, that when the Priests and People neglected to do their duties, then the Lord blessed the coun<g ref="char:EOLhyphen"/>sels &amp; endeavours of the Magistrate. And thus we may look home, that all the Supream power that did not deny their power, nor did suffer the Ministers or Bishops to innovate and introduce idolatry, and superstition, for which God brought a late judgement upon us, did prosper; but on the contrary, the Magistrates that waved their care over the Church, for which especially as Nursing-Fathers, they are or<g ref="char:EOLhyphen"/>dained, God did as lightly regard them; so that it is no less a bles<g ref="char:EOLhyphen"/>sing to the Magistrate, then to the Commonwealth, that they take care, that all in the Name of Christ be subject; for the candle can<g ref="char:EOLhyphen"/>not be removed out of the candlestick with the peace of the Nation; so that the promotion of reformation, especially at the Lords Table, from all the evils complained of, and threatned judgements, is an approved of most special remedy.</p>
+            </div>
+            <div type="part">
+               <head>A Godly Ministery may remedy the evils complained of, if the Magistrates over-see them; if otherwise, its extraordinary.</head>
+               <p>ANd though the Ministers may with the Magistrates be blessed Instruments for the aforesaid remedy: yet if in their hearts there be never so small corruptions, Satan shall mold and act it with such advantage, that if the Magistrate doth not watch as much
+<pb n="33" facs="tcp:168046:6"/>over the Ministers to see them do their duties, as <hi>Hezekiah</hi> was forced to command them to sing the words of <hi>David.</hi> However may we not expect that such as shall halt betwixt two Opinions, and that daube with untempered morter, will conspire against the faithful Prophets, as they laid their designe against zealous <hi>Elias?</hi> And therefore though the Ministers be Ambassadors, yet will they so come in their own Name, as that they will forget their commissi<g ref="char:EOLhyphen"/>on, or neglect to promote it; though stewards and Pastors yet all will not feed the flock, which take the Magistrates wages, as <hi>Paul</hi> did of the Churches; and though they be a flame of fire, yet if not mastred, it will consume it self, or become so cold like that of <hi>Nadab</hi> and <hi>A<gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hu</hi> in bursting forth into strange Opinions; so that if the Over-seers be over-seen, it is the onely way which God hath ordain<g ref="char:EOLhyphen"/>ed but when he gave power to work miracles, or preserve, or build his Church miraculously; for if we further shall descend and look upon the Flock, which should be the elect people of God, united, holy and peaceable, or such as are waiters to hear when God will call them; if they also be not as much watched and governed, as fed by their Pastors, as the Pastor is to be subject to the general o<g ref="char:EOLhyphen"/>versight or Church-Government, how soon will they be perverted? Experience also will fully teach us, that first <hi>Corah, Dathan</hi> and <hi>A<g ref="char:EOLhyphen"/>biram</hi> upon pretence of their holiness, were therefore tempted to re<g ref="char:EOLhyphen"/>bel against <hi>Moses</hi> and <hi>Aaron.</hi> Secondly, though peaceable, yet if not over-watched, they shall push not onely with the horn of doubt<g ref="char:EOLhyphen"/>ful disputations; but a root of bitterness, like a scab, will as the A<g ref="char:EOLhyphen"/>postle saith, <hi>cause many to be defiled.</hi> That lastly, though the flock from its union and orderly conversation, be but one; yet for want of a faithful Oversight, <hi>Paul</hi> foresees that after he was departed, (as <hi>Moses</hi> in effect told the people that after his departure) men of themselves should arise and speak perverse things to draw away Disciples after them; so that many cannot be got (though we have no cause to complain) to sit at the Lords Table, or be brought with the fold to receive the common food from the hand of one Pastor.</p>
+               <p>If therefore the Lord be not offended with us, if the time of his waiting for our reformedness be not nigh upon expiring, then for all our carnal security, divisions and disorders with the contempt of the Lords-day-worship, the seed of all prophanness, shall but like the
+<pb n="34" facs="tcp:168046:7"/>appearance of the enemy, awaken us, as it did zealous <hi>Nehemiah,</hi> to contend for reformation to stand to our Arms, to the abandon<g ref="char:EOLhyphen"/>ing of every appearance of evil, according to our place and calling.</p>
+               <p>And therefore in the mean time in the humble and sincere dis<g ref="char:EOLhyphen"/>charge of our duty, we have in the name of our God, resolved to sit down and be solemnly humbled, untill our gracious and wise God shall in mercy or Judgement visit a secure and back-sliding people.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
